@@ -7,6 +7,11 @@ Dataset ini berisi tentang data perjalanan penerbangan dan beberapa penyebab pen
 
 Source dataset: https://www.kaggle.com/datasets/undersc0re/flight-delay-and-causes
 
+## Visualisasi
+![image](https://github.com/user-attachments/assets/8ffdea46-eee0-42e6-806c-bd159cd4e126)
+![image](https://github.com/user-attachments/assets/77e84047-190b-4dc1-987a-dab5b43cd3d1)
+
+
 ## Contents
 -	Mengidentifikasi maskapai, rute, dan bandara dengan tingkat keterlambatan tertinggi.
 -	Menyoroti faktor utama penyebab keterlambatan penerbangan.
@@ -27,4 +32,4 @@ Source dataset: https://www.kaggle.com/datasets/undersc0re/flight-delay-and-caus
 -	Faktor penyebab keterlambatan dominan dapat membantu maskapai menentukan prioritas perbaikan. Misalnya, jika penyebab utama adalah cuaca, solusi dapat berupa penguatan koordinasi dengan meteorologi; jika masalah internal, perlu adanya evaluasi proses operasional.
 -	Bulan dengan rata-rata keterlambatan tertinggi dapat diprioritaskan untuk perbaikan operasional atau peningkatan layanan.
 
-## Visualisasi
+
